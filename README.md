@@ -39,10 +39,4 @@ The dataset contains features of social media posts. Here are the explanations o
 - Segregating the training instances based on given features.
 - Finding optimal number of clusters based on different types of metrics.
 - Visualization of the clusters in reduced dimensional space.
-- Analysis of features across clusters.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/soumyadeepghoshGG/Social-Media-Engagement-Analysis/blob/main/License.txt) file for details.
-
-## Contact
-For questions or issues, please contact me (Soumyadeep Ghosh) via mail: soumyadeepghosh57@gmail.com
+- Analysis of features across cluste
